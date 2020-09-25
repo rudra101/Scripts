@@ -1,1 +1,4 @@
-A one place for all the scripts used for dissertation projection 2020-21.
+A one place for all the scripts used for dissertation project from 2020-21.
+
+Wishing everything goes well.
+
